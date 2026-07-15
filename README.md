@@ -1,4 +1,4 @@
-# Portfólio — Rainer Sacks
+# Portfólio — 15/07/2026
 
 Portfólio pessoal desenvolvido com React e identidade visual inspirada em terminais Linux. Como sou fã de Linux, transformei essa afinidade em parte central da experiência visual do projeto. O site apresenta minha trajetória, habilidades e projetos nas áreas de **Software e Dados**.
 
