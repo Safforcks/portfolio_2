@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  background: #050505;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+body {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top, rgba(115, 179, 106, 0.12), transparent 30%),
+    radial-gradient(circle at bottom, rgba(255, 255, 255, 0.05), transparent 42%),
+    #050505;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+body::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+.App {
+  min-height: 100vh;
+  display: flex;  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), 
+    url("/video/background_linux.gif");
+  background-size: 32% auto;
+  background-position: center;
+  background-repeat: repeat;
+  padding: 16px;
+}
+.layout {
+  width: min(100%, 1280px);
+  height: min(700px, calc(100vh - 32px));
+  background:
+    linear-gradient(180deg, rgba(18, 18, 18, 0.96), rgba(6, 6, 6, 0.98));
+  margin: auto;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 18px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-shadow:
+    0 28px 90px rgba(0, 0, 0, 0.55),
+    inset 0 1px 0 rgba(255, 255, 255, 0.04);
+}
+.content {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  overflow: hidden;
+}

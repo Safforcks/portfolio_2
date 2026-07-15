@@ -1,0 +1,14 @@
+.clock {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+}
+.relogioAscii {
+	font-family: Consolas, "Courier New", monospace;
+	font-size: 9px;
+	line-height: 9px;
+	color: #89cb28;
+	text-shadow: 0 0 7px rgba(137, 203, 40, 0.22);
+	white-space: pre;
+}

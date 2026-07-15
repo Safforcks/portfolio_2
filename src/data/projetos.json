@@ -1,0 +1,58 @@
+[
+    {
+        "titulo": "LearnFlix",
+        "tipo": "mobile",
+        "descricao": "Aplicativo mobile desenvolvido com React Native para centralizar informações acadêmicas em uma plataforma.",
+        "tecnologias": ["React Native", "Expo SDK 54"],
+        "icone": "CiMobile3",
+        "link": "https://github.com/Safforcks/LearnFlix"
+    }, 
+    {
+        "titulo": "Sistema de mercado",
+        "tipo": "sistema",
+        "descricao": "Um ambiente comercial, contemplando registro de compras, controle de estoque e consultas gerenciais",
+        "tecnologias": ["Python", "SQLite", "Pandas"],
+        "icone": "IoCartOutline",
+        "link": "https://github.com/Safforcks/Sistema_de_Mercado_com_SIG_e_Banco_de_Dados"
+    }, 
+    {
+        "titulo": "Terminal Linux",
+        "tipo": "automação",
+        "descricao": "Script simples em Bash para personalizar o terminal Linux com um banner ASCII centralizado.",
+        "tecnologias": ["Bash", "Linux", "FIGlet"],
+        "icone": "AiOutlineLinux",
+        "link": "https://github.com/Safforcks/linux_terminal_banner"
+    }, 
+    {
+        "titulo": "Pokémon API",
+        "tipo": "dados",
+        "descricao": "Script em Python para consumir a PokeAPI e salvar os dados dos 100 primeiros Pokémons em uma tabela PostgreSQL.",
+        "tecnologias": ["Python", "PostgreSQL"],
+        "icone": "IoServerOutline",
+        "link": "https://github.com/Safforcks/pokemon_api_postgresql"
+    }, 
+    {
+        "titulo": "Jogo de número secreto",
+        "tipo": "web",
+        "descricao": "Um jogo interativo desenvolvido em que o jogador precisa adivinhar um número secreto entre 1 e 1000.",
+        "tecnologias": ["JavaScript", "CSS3", "HTML5"],
+        "icone": "IoGameControllerOutline",
+        "link": "https://github.com/Safforcks/Jogo_de_numero_secreto"
+    }, 
+    {
+        "titulo": "Site de campanha",
+        "tipo": "web",
+        "descricao": "Site de campanha política fictícia desenvolvido para apresentar o candidato ao eleitorado.",
+        "tecnologias": ["React", "Material UI"],
+        "icone": "IoDesktopOutline",
+        "link": "https://github.com/Safforcks/site_de_candidato_ficticio"
+    }, 
+    {
+        "titulo": "Gerador de recibos",
+        "tipo": "automação",
+        "descricao": "Sistema desenvolvido para automatizar a geração de recibos, reduzindo tarefas manuais.",
+        "tecnologias": ["JavaScript", "CSS3", "HTML5"],
+        "icone": "IoSettingsOutline",
+        "link": "https://github.com/Safforcks/programa-de-recibos"
+    }
+]
